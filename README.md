@@ -95,7 +95,7 @@ This analysis was prepared for the Adaptation Atlas Data Storytelling Challenge 
 
 ## Author
 
-[Your Name] - Data Scientist and Agricultural Systems Analyst
+**Brian Masheti** - Data Analyst, Developer, and Agricultural Systems Analyst
 
 ## License
 
